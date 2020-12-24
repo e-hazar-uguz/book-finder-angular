@@ -1,0 +1,64 @@
+section {
+  display: table;
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 300px;
+}
+
+.buttondelete {
+  background-color: #bdc3c7;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.buttonedit {
+  background-color: #e67e22;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.buttoncreate {
+  background-color: #2980b9;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 4px;
+}
+.bookarray {
+  background-color: linen;
+  font-size: 20px;
+}
+.booklist {
+  background-color: papayawhip;
+  font-size: 20px;
+}
+.basit {
+  background-color: #ec173a;
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+}
